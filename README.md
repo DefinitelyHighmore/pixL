@@ -1,5 +1,5 @@
 # pixL
-String to pixel length converter for the default minecraft font
+String to pixel length converter for the default minecraft font.
 
 # How to use
 * For versions 1.20.2 and above
