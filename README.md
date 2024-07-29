@@ -6,7 +6,7 @@ Grab the appropriate version from Releases
 
 # How to use
 * For versions 1.20.2 and above
-* Drop the zip folder directly into your datapacks folder
+* Drop the zip folder from the appropriate Release directly into your datapacks folder
 * Set your string by using the following command
   
   ```mcfunction
