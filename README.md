@@ -1,6 +1,9 @@
 # pixL
 String to pixel length converter for the default minecraft font.
 
+# Download
+Grab the appropriate version from Releases
+
 # How to use
 * For versions 1.20.2 and above
 * Drop the zip folder directly into your datapacks folder
