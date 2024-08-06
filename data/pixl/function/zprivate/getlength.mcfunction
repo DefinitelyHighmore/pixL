@@ -1,0 +1,1 @@
+$execute store result score #temp hm.pixl run data get storage hm:pixl root.directory."$(temp)"
